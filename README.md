@@ -93,4 +93,4 @@ Explain Generative AI in simple terms
 
 ## 👩‍💻 Author
 
-Your Name
+Sneha M N
