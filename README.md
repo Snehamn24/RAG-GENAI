@@ -1,15 +1,16 @@
-# RAG-Wikipedia-GENAI
-# 📚 RAG-Based Question Answering System
+# 📚 RAG-Wikipedia-GenAI
 
 ## 🚀 Overview
 
-This project is a **Retrieval-Augmented Generation (RAG)** system that answers user queries using data from Wikipedia.
+This project implements a **Retrieval-Augmented Generation (RAG)** system that answers user queries using real-time knowledge from Wikipedia.
 
 It combines:
 
 * Information retrieval
 * Semantic search
 * Large Language Models (LLMs)
+
+👉 This project demonstrates how modern AI systems reduce hallucinations by grounding responses in real data.
 
 ---
 
@@ -38,8 +39,8 @@ It combines:
 
 * Dynamic Wikipedia data loading
 * Semantic search using embeddings
-* Accurate context-based answers
-* Modular RAG pipeline
+* Context-aware answer generation
+* Modular and scalable RAG pipeline
 
 ---
 
@@ -48,8 +49,8 @@ It combines:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rag-project.git
-cd rag-project
+git clone https://github.com/your-username/RAG-Wikipedia-GenAI.git
+cd RAG-Wikipedia-GenAI
 ```
 
 ### 2. Install dependencies
@@ -93,4 +94,4 @@ Explain Generative AI in simple terms
 
 ## 👩‍💻 Author
 
-Sneha M N
+**Sneha M N**
